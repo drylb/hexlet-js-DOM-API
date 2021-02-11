@@ -1,0 +1,190 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`application 1`] = `
+"<div class=\\"container m-3\\">
+    <div class=\\"root\\">
+        <table class=\\"table-bordered\\">
+            <tbody>
+                <tr>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                </tr>
+                <tr>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                </tr>
+                <tr>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+"
+`;
+
+exports[`application 2`] = `
+"<div class=\\"container m-3\\">
+    <div class=\\"root\\">
+        <table class=\\"table-bordered\\">
+            <tbody>
+                <tr>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                </tr>
+                <tr>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\">o</td>
+                    <td class=\\"py-2 px-3\\">x</td>
+                </tr>
+                <tr>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\">x</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+"
+`;
+
+exports[`application 3`] = `
+"<div class=\\"container m-3\\">
+    <div class=\\"root\\">
+        <table class=\\"table-bordered\\">
+            <tbody>
+                <tr>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                </tr>
+                <tr>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\">o</td>
+                    <td class=\\"py-2 px-3\\">x</td>
+                </tr>
+                <tr>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\">o</td>
+                    <td class=\\"py-2 px-3\\">x</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+"
+`;
+
+exports[`application 4`] = `
+"<div class=\\"container m-3\\">
+    <div class=\\"root\\">
+        <table class=\\"table-bordered\\">
+            <tbody>
+                <tr>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                </tr>
+                <tr>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\">o</td>
+                    <td class=\\"py-2 px-3\\">x</td>
+                </tr>
+                <tr>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\">o</td>
+                    <td class=\\"py-2 px-3\\">x</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+"
+`;
+
+exports[`application 5`] = `
+"<div class=\\"container m-3\\">
+    <div class=\\"root\\">
+        <table class=\\"table-bordered\\">
+            <tbody>
+                <tr>
+                    <td class=\\"py-2 px-3\\">o</td>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                </tr>
+                <tr>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\">o</td>
+                    <td class=\\"py-2 px-3\\">x</td>
+                </tr>
+                <tr>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\">o</td>
+                    <td class=\\"py-2 px-3\\">x</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+"
+`;
+
+exports[`application 6`] = `
+"<div class=\\"container m-3\\">
+    <div class=\\"root\\">
+        <table class=\\"table-bordered\\">
+            <tbody>
+                <tr>
+                    <td class=\\"py-2 px-3\\">o</td>
+                    <td class=\\"py-2 px-3\\">o</td>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                </tr>
+                <tr>
+                    <td class=\\"py-2 px-3\\">x</td>
+                    <td class=\\"py-2 px-3\\">o</td>
+                    <td class=\\"py-2 px-3\\">x</td>
+                </tr>
+                <tr>
+                    <td class=\\"py-2 px-3\\"><span class=\\"invisible\\">s</span></td>
+                    <td class=\\"py-2 px-3\\">o</td>
+                    <td class=\\"py-2 px-3\\">x</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+"
+`;
+
+exports[`application 7`] = `
+"<div class=\\"container m-3\\">
+    <div class=\\"root\\">
+        <table class=\\"table-bordered\\">
+            <tbody>
+                <tr>
+                    <td class=\\"py-2 px-3\\">o</td>
+                    <td class=\\"py-2 px-3\\">o</td>
+                    <td class=\\"py-2 px-3\\">o</td>
+                </tr>
+                <tr>
+                    <td class=\\"py-2 px-3\\">x</td>
+                    <td class=\\"py-2 px-3\\">o</td>
+                    <td class=\\"py-2 px-3\\">x</td>
+                </tr>
+                <tr>
+                    <td class=\\"py-2 px-3\\">x</td>
+                    <td class=\\"py-2 px-3\\">o</td>
+                    <td class=\\"py-2 px-3\\">x</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+"
+`;
